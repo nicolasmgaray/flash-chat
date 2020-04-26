@@ -1,7 +1,5 @@
 # ⚡️ Flash Chat 
 
-### Description
-
 Chat app made using Firebase to learn Flutter.
 
 ### Live Demo
